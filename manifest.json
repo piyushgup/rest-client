@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "rest-client",
+  "version": "0.1.0",
+
+  "description": "My first rest client extension.",
+
+  "icons": {
+    "48": "icons/rest.png"
+  }
+}
